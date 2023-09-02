@@ -129,3 +129,4 @@
   129  ls
   130  history
   131  history >> new.txt
+ aws ec2 run-instances --image-id ami-0f5ee92e2d63afc18 --count 1 --instance-type t2.micro --key-name newgit1 --security-group-ids sg-0df4fd0aeb54
