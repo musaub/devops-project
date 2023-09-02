@@ -1,0 +1,131 @@
+    1  ls
+    2  cd ali
+    3  ls
+    4  git push -u origin master 
+    5  git push -u origin master 
+    6  cd ali
+    7  cd ali
+    8  git push -u origin master 
+    9  history
+   10  git log
+   11  git remote add origin https://github.com/musaub/devops-project2.git
+   12  origin master 
+   13  yum install git -y
+   14  git update
+   15  yum update -y
+   16  git -v
+   17  git --v
+   18  mkdir ali
+   19  cd ali
+   20  vi abcd
+   21  ls
+   22  git init
+   23  git add .
+   24  git commit -m "1st commit"
+   25  git status
+   26  git log
+   27  git show
+   28  git remote add origin https://github.com/musaub/devops-project.git
+   29  cd ali
+   30  git remote add origin main
+   31  git remote add origin master
+   32  git push -u origin master
+   33  git pull origin master 
+   34  ls
+   35  vi abcd
+   36  git log
+   37  git status
+   38  git add .
+   39  git status
+   40  git commit -m "2 commi
+   41  git status
+   42  git push origin master
+   43  git push origin master
+   44  history
+   45  exit
+   46  cd ali/
+   47  git push
+   48  git push -u origin master
+   49  Git fetch origin master:tmp
+   50  git pull
+   51  git pull origin master
+   52  Git fetch origin master:tmp
+   53  Git fetch origin main:tmp
+   54  git stats
+   55  git status
+   56  git push -u origin master
+   57  git push -u origin master
+   58  git push https://github.com/musaub/devops-project.git
+   59  Git fetch origin master:tmp
+   60  git fetch origin master:tmp
+   61  git rebase tmp
+   62  git push
+   63  git push -u origin master
+   64  git fetch origin master:tmp
+   65  git rebase tmp
+   66  git rebase --continue 
+   67  git fetch origin master:tmp
+   68  git rebase 
+   69  git push
+   70  git push -u origin master
+   71  cd..
+   72  ls
+   73  cd ..
+   74  ls
+   75  cd ali
+   76  git add .
+   77  git commit -m "new"
+   78   git config --global user.email "mohammedmusaubahmed@gmail.com"
+   79    git config --global user.name "musaub"
+   80  git commit -m "new"
+   81  git push -u origin master
+   82  git pull origin master
+   83  git push -u origin master
+   84  git pull origin master
+   85  git add .
+   86  git status
+   87  cat > 123.txt
+   88  cat 123.txt 
+   89  git add .
+   90  git commit -m "latest"
+   91  git push origin master
+   92  git push --force https://github.com/musaub/devops-project.git
+   93  git push -f origin master
+   94  git pull origin master
+   95  ls
+   96  cd ..
+   97  mkdir musaub
+   98  cd musaub/
+   99  git clone https://github.com/musaub/devops-project.git
+  100  ls
+  101  cd devops-project/
+  102  ls
+  103  touch umair.txt
+  104  cat > umair.txt 
+  105  cat umair.txt 
+  106  cat >> umair.txt 
+  107  cat umair.txt 
+  108  cat >> umair.txt 
+  109  cat umair.txt 
+  110  git add .
+  111  git status
+  112  git commit -m "new" && git push origin master
+  113  cd
+  114  ls
+  115  history
+  116  history >> new.txt
+  117  cat new.txt 
+  118  git add .
+  119  ls
+  120  cd ..
+  121  ls
+  122  pwd
+  123  cd /home/ec2-user/
+  124  ls
+  125  cd musaub/
+  126  ls
+  127  de
+  128  cd devops-project/
+  129  ls
+  130  history
+  131  history >> new.txt
